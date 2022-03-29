@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">109590031_HW6-1</string>
+    <string name="option1">汀普拉紅茶</string>
+    <string name="option2">烏瓦紅茶</string>
+    <string name="option3">阿薩姆紅茶</string>
+    <string name="option4">伯爵紅茶</string>
+    <string name="option5">伯爵綠茶</string>
+    <string name="order_button">Show Toast</string>
+</resources>
