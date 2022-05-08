@@ -1,0 +1,4 @@
+#Mon May 02 21:22:32 CST 2022
+base.0=C\:\\Users\\sigtu\\Documents\\110-Android\\109590031_HW8-2\\109590031_HW8-2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
