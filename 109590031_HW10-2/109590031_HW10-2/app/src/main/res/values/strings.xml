@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">109590031_HW10–2</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+    <string-array name="spinner_item">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
